@@ -1,0 +1,16 @@
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.Form1.resources
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.csproj.GenerateResource.cache
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.AssemblyInfoInputs.cache
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.AssemblyInfo.cs
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\net8.0-windows\mayintarlasioyunu.exe
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\net8.0-windows\mayintarlasioyunu.deps.json
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\net8.0-windows\mayintarlasioyunu.runtimeconfig.json
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\net8.0-windows\mayintarlasioyunu.dll
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\bin\Debug\net8.0-windows\mayintarlasioyunu.pdb
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.dll
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\refint\mayintarlasioyunu.dll
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.pdb
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\mayintarlasioyunu.genruntimeconfig.cache
+C:\Users\YUSUF\source\repos\mayintarlasioyunu\mayintarlasioyunu\obj\Debug\net8.0-windows\ref\mayintarlasioyunu.dll
